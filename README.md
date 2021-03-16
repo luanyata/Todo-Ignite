@@ -8,13 +8,13 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanyata/Todo-Ignite?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://www.linkedin.com/in/luanyata/">
+    <img alt="Made by LuanYata" src="https://img.shields.io/badge/made%20by-luanyata-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/Todo-Ignite/stargazers">
+  <a href="https://github.com/luanyata/Todo-Ignite/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/luanyata/Todo-Ignite?style=social">
   </a>
 </p>
